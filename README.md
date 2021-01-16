@@ -3,9 +3,7 @@ Special Topic in Solid State Physics: Machine Learning for Physical Scientists  
 
 ## Announcement
 
-* 01-14-2021: Unless announced here or on the facebook group, we will meet every Monday from 11.00am-12.00pm virtually on [Zoom](https://chula.zoom.us/j/5943943895?pwd=dmpxc3NBMXFPam1FeGtTY2tsdm95UT09) ( password: MLPhys ). 
-
-
+* 01-14-2021: Unless announced here or on the facebook group, we will meet every Monday from 11.00am-12.00pm virtually on [Zoom](https://chula.zoom.us/j/5943943895?pwd=dmpxc3NBMXFPam1FeGtTY2tsdm95UT09) ( password: MLPhys ). Outside of the weekly virtual meeting, attendances are expected to learn privately at their convenience from the videos to be posted in the announcement, roughly about 2-hour weekly lectures. The purpose of the virtual meeting is to stimulate the discussion among attendances, as well as to have an interactive session where questions about lecture and homework shall be asked.
 
 
 ## Course Description: 
