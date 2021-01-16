@@ -1,5 +1,6 @@
 # Machine Learning for Physical Scientists
-Special Topic in Solid State Physics: Machine Learning for Physical Scientists  [2304641][ภาคการศึกษาปลาย ประจำปีการศึกษา 2563]
+Special Topic in Solid State Physics: Machine Learning for Physical Scientists
+ รหัสวิชา 2304641 ภาคการศึกษาปลาย ประจำปีการศึกษา 2563
 
 ## Announcement
 
