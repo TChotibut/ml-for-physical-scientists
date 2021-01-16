@@ -4,7 +4,7 @@ Special Topic in Solid State Physics: Machine Learning for Physical Scientists
 รหัสวิชา 2304641 ปีการศึกษา 2563
 
 ## Announcement
-* [01-17-2021] Readings for week 1-2: Mehta's section 1-8.  **Preliminary homework 0** (due Friday January 22) requires you to install Jupyter notebook and relevant packages such as sklearn on your local computer.  You'll get your hand dirty and get intuition why Machine Learning can be difficult. 
+* [01-17-2021] Readings for week 1-2: Mehta's section 1-8.  **Preliminary homework 0** (due Friday January 22) requires you to install Jupyter notebook and relevant packages such as sklearn on your local computer.  You'll get your hands dirty and get intuition why Machine Learning can be difficult. 
 
 * [01-14-2021] Unless announced here or on the [facebook group](https://www.facebook.com/groups/1033694817095022), we will virtually meet every Monday from 11.00am-noon on [Zoom](https://chula.zoom.us/j/5943943895?pwd=dmpxc3NBMXFPam1FeGtTY2tsdm95UT09) ( Password: MLPhys ). In addition to the weekly virtual meeting, attendances are expected to learn privately at their convenience from the videos to be posted in the announcement ( 2-hour weekly lectures ). The purpose of the virtual meeting is to stimulate the discussion among attendances, as well as to have an interactive session in which questions or comments about lectures and problem sets shall be discussed.
 
