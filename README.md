@@ -14,6 +14,6 @@ In the age of Big Data, â€œArtificial Intelligence (AI) is the new electricityâ€
 
 ### Prerequisites:
 
-1.	Quantum Mechanics 2 [Chula Playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOcN_tPDHlqbflzaRFEhoMC)
-2.	Statistical Physics [Chula Playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOH2Zsr0gKNA1uRCJ290eco)
-3.	Python programming [Recommended Course](https://www.coursera.org/learn/python-crash-course)
+1.	Quantum Mechanics 2 ([Chula Playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOcN_tPDHlqbflzaRFEhoMC))
+2.	Statistical Physics ([Chula Playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOH2Zsr0gKNA1uRCJ290eco))
+3.	Python programming ([Recommended Course](https://www.coursera.org/learn/python-crash-course))
