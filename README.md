@@ -1,10 +1,11 @@
 # Machine Learning for Physical Scientists
+[ [Local](http://localhost:8888/git-pull?repo=https%3A%2F%2Fgithub.com%2FTChotibut%2Fml-for-physical-scientists&urlpath=lab%2Fworkspaces%2Fauto-8%2Ftree%2Fml-for-physical-scientists%2FREADME.md&branch=main) | CHICS hub ]
 
 Special Topic in Solid State Physics: Machine Learning for Physical Scientists
 
 รหัสวิชา 2304641 ปีการศึกษา 2563
 
-nbgitpull [[local](http://localhost:8888/git-pull?repo=https%3A%2F%2Fgithub.com%2FTChotibut%2Fml-for-physical-scientists&urlpath=lab%2Fworkspaces%2Fauto-8%2Ftree%2Fml-for-physical-scientists%2FREADME.md&branch=main)][chics hub]
+
 ## Announcement
 * [01-17-2021] Readings for week 1-2: Mehta's section 1-8.  **Preliminary homework 0** [here](https://github.com/sinonkt/ml-for-physical-scientists/blob/main/Homework/HW0_ML%20can%20be%20difficult.ipynb) (due Friday January 22) requires you to install Jupyter notebook and relevant packages such as sklearn on your local computer.  You'll get your hands dirty and get intuition why Machine Learning can be difficult. 
 
@@ -32,3 +33,6 @@ In the age of Big Data, “Artificial Intelligence (AI) is the new electricity�
 1.	Quantum Mechanics 2 ([Chula Playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOcN_tPDHlqbflzaRFEhoMC))
 2.	Statistical Physics ([Chula Playlist](https://www.youtube.com/playlist?list=PL0XuSm2_1reOH2Zsr0gKNA1uRCJ290eco))
 3.	Python programming ([Recommended Course](https://www.coursera.org/learn/python-crash-course))
+
+## Extras, Notebook git puller list:
+* [Extra] Petter Wittek, Quantum Machine Learning [ [edX](https://www.edx.org/course/quantum-machine-learning) | [github](https://github.com/qosf/qml-mooc) | [local](http://localhost:8888/git-pull?repo=https%3A%2F%2Fgithub.com%2Fqosf%2Fqml-mooc&urlpath=lab%2Fworkspaces%2Fauto-8%2Ftree%2Fqml-mooc%2FREADME.md&branch=master) | chics hub ]
