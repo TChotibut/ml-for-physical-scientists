@@ -1,4 +1,6 @@
 # Announcement
+* [01-28-2021] Video lecture 3 and 4, as well as accompanying slides, are uploaded. 
+
 * [01-25-2021] Homework 1 is posted [due Wednesday February 3 at Noon]! The total score is 60 points + 20 extra credits (challenging problems). In addition, those who wrote down the best solution to each problem or exercise will receive an extra 5 points! After watching video lecture 3 on regularized linear model you should be able to do homework 1.  Late submission will receive 40% penalty. For theoretical problems/exercises, feel free to write down the solution and attach the pdf files of your write-up and submit together with your ipynb file in a compressed zip file. 
 
 * [01-21-2021] Video lecture 2 is shared [here](https://drive.google.com/drive/folders/1urRjPvKjLZU3QgEDolsQIoC2gssWHB3j?usp=sharing), and the workshop lecture is kindly prepared by Krittin [here](https://drive.google.com/drive/folders/1D72xllKe4zZxsA72R7srdMr6NTIt2xgx?usp=sharing). Please finish all these videos and feel free to post your questions to discuss on Monday on facebook page! 
