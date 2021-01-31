@@ -1,6 +1,6 @@
 # A List of Recent Research Papers 
 
-### This is a compilation of recent work that might be a source of inspiration for your final project.
+This is a compilation of recent work that might be a source of inspiration for your final project.
 
 ## Classical Machine Learning
 
