@@ -5,7 +5,7 @@ Special Topic in Solid State Physics: Machine Learning for Physical Scientists
 
 รหัสวิชา 2304641 ปีการศึกษา 2563
 
-## Schedule
+## Schedule:
 
 | Week     |     Topics    |  Readings | Homework  |
 |----------|:-------------:|------:|------:|
