@@ -1,4 +1,4 @@
-# A List of Recent Work
+# A List of Recent Work/Talks
 
 This is a compilation of recent work that might be a source of inspiration for your final project.
 
