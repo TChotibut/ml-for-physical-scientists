@@ -8,7 +8,7 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Vasudevan, et. al. **Off-the-shelf deep learning is not enough, and requires parsimony, Bayesianity, and causality**, [(npj: computational materials 2021)](https://www.nature.com/articles/s41524-020-00487-0?fbclid=IwAR1rW_RQPSkekx6Rvtik184RYuiwGGBvYpBCZCUdsWSxIFvu3_RtaQoLe74)
 
-* Ruehle, F. **Data Science Applications to String Theory**, [Physics Report 2020](https://www.sciencedirect.com/science/article/pii/S0370157319303072)
+* Ruehle, F. **Data Science Applications to String Theory**, [(Physics Report 2020)](https://www.sciencedirect.com/science/article/pii/S0370157319303072)
 
 ### Talks
 
