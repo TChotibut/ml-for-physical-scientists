@@ -8,6 +8,8 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Ruehle, F. **Data Science Applications to String Theory**, [(Physics Report 2020)](https://www.sciencedirect.com/science/article/pii/S0370157319303072)
 
+* Abbara, A. et. al. **Rademacher complexity and spin glasses: A link between the replica and statistical theories of learning**, ([Proceedings of Machine Learning Research 2020](https://cloud.math.princeton.edu/index.php/s/zakSjPtSxPqw62A)).
+
 * Lesieur, T. et. al. **Statistical and computational phase transitions in spiked tensor estimation** ([ArXiv 2017](https://arxiv.org/abs/1701.08010))
 
 
@@ -20,7 +22,7 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Lee, J. et. al. **Deep Neural Networks as Gaussian Process** ([ICLR 2018](https://openreview.net/pdf?id=B1EA-M-0Z))
 
-* Yaida, Sho. **Non-Gaussian processes and neural networks at finite widths** ([Journal of Machine Learning Research 2020](https://cloud.math.princeton.edu/index.php/s/PF8g28ctpEcp3Ne))
+* Yaida, Sho. **Non-Gaussian processes and neural networks at finite widths** ([Proceedings of Machine Learning Research 2020](https://cloud.math.princeton.edu/index.php/s/PF8g28ctpEcp3Ne))
 
 ### Talks
 
@@ -36,5 +38,5 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Abbas, A., et. al. **The power of quantum neural networks**, [(ArXiv 2020)](https://arxiv.org/abs/2011.00027)
 
-* Austen, L. **Quantum Ground States from Reinforcement Learning** ([Journal of Machine Learning Research 2020](https://cloud.math.princeton.edu/index.php/s/o2qtK9f3GtYDQ9L))
+* Austen, L. **Quantum Ground States from Reinforcement Learning** ([Proceedings of Machine Learning Research 2020](https://cloud.math.princeton.edu/index.php/s/o2qtK9f3GtYDQ9L))
 
