@@ -18,7 +18,7 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 ### Talks
 
-* Yasaman Bahri [**Deep Learning: Theoretical Building Blocks From The Study of Wide Networks**](https://www.youtube.com/watch?v=xIo5er6jR9U&feature=youtu.be)
+* Yasaman Bahri, **Deep Learning: Theoretical Building Blocks From The Study of Wide Networks** ([YouTube](https://www.youtube.com/watch?v=xIo5er6jR9U&feature=youtu.be))
 
 ## Quantum Machine Learning
 
