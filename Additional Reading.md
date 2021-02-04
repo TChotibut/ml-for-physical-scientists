@@ -24,7 +24,7 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Bharti, K., et. al. **Noisy Intermediate-scale quantum (NISQ) algorithms**, [(ArXiv 2021)](https://arxiv.org/pdf/2101.08448.pdf)
 
-* Schuld, M., **Quantum machine learning models are kenel methods**, [(ArXiv 2021)](https://arxiv.org/abs/2101.11020)
+* Schuld, M., **Quantum machine learning models are kernel methods**, [(ArXiv 2021)](https://arxiv.org/abs/2101.11020)
 
 * Beer, K., et. al., **Training deep quantum neural networks**, [(Nature Communications 2020)](https://www.nature.com/articles/s41467-020-14454-2)
 
