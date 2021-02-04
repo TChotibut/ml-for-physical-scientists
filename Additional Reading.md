@@ -8,6 +8,8 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Ruehle, F. **Data Science Applications to String Theory**, [(Physics Report 2020)](https://www.sciencedirect.com/science/article/pii/S0370157319303072)
 
+* Lesieur, T. et. al. **Statistical and computational phase transitions in spiked tensor estimation** ([ArXiv 2017](https://arxiv.org/abs/1701.08010))
+
 
 ## Modern Machine Learning (Deep Learning)
 
