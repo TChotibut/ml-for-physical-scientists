@@ -40,3 +40,5 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Austen, L. **Quantum Ground States from Reinforcement Learning** ([Proceedings of Machine Learning Research 2020](https://cloud.math.princeton.edu/index.php/s/o2qtK9f3GtYDQ9L))
 
+* Stoudenmire, E., Schwab, D. J. **Supervised Learning with Tensor Networks** ([NeurIPS 2016](https://papers.nips.cc/paper/2016/hash/5314b9674c86e3f9d1ba25ef9bb32895-Abstract.html))
+
