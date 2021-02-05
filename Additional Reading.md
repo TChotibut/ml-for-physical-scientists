@@ -20,6 +20,8 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Belkin, M. et. al. **Reconciling modern machine learning practice and the bias-variance trade-off** (PNAS 2019, [ArXiv](https://arxiv.org/abs/1812.11118), see also the ([history of the double descent](https://www.pnas.org/content/117/20/10625)))
 
+* Jacot, A. et. al. **Neural Tangent Kernel: Convergence and Generalization in Neural Networks** ([NeurIPS 2018](https://proceedings.neurips.cc/paper/2018/file/5a4be1fa34e62bb8a6ec6b91d2462f5a-Paper.pdf))
+
 * Lee, J. et. al. **Deep Neural Networks as Gaussian Process** ([ICLR 2018](https://openreview.net/pdf?id=B1EA-M-0Z))
 
 * Yaida, Sho. **Non-Gaussian processes and neural networks at finite widths** ([Proceedings of Machine Learning Research 2020](https://cloud.math.princeton.edu/index.php/s/PF8g28ctpEcp3Ne))
