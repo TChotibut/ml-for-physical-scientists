@@ -12,6 +12,8 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Lesieur, T. et. al. **Statistical and computational phase transitions in spiked tensor estimation** ([ArXiv 2017](https://arxiv.org/abs/1701.08010))
 
+* Cakmak, B., and Opper, M., **A Dynamical Mean-Field Theory for Learning in Restricted Boltzmann Machines** ([Arxiv 2020](https://arxiv.org/pdf/2005.01560.pdf))
+
 
 ## Modern Machine Learning (Deep Learning)
 
