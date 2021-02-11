@@ -1,4 +1,6 @@
 # Announcement
+* [02-11-2021] Video lectures for week 4 are uploaded. **Ensemble Learning** is extremely useful in practice;  it's abother paradigm of learning based on the fact that many predictors are better than a single predictor, similar to the idea of "Wisdom of Crowds" permeating social phenomena. The video lecture from the University of Waterloo on Ensemble Learning is really nice, and since it's mostly based on intuitive ideas to combine multiple models, that video alone should help you understand Mehta's section 8 on combining model. 
+
 * [02-09-2021] **Homework 2** is uploaded. Please submit your single zip file "yourname_hw2.zip" that combines ipynb, pdf, pictures, handwriting solutions, or other files that you need here https://www.dropbox.com/request/BWE0rIvQT0KaIBXCoZrm . The online submission will be available until 12.01pm Wednesday 17 Feb. Late submission will receive ε credit.
 
 * [02-03-2021] **Homework 1 Submission Guideline**: Please submit your single zip file "yourname_hw1.zip" that combines ipynb, pdf, pictures, handwriting solutions, or other files that you need here https://www.dropbox.com/request/RU3vDDYVLLac5MyX9sbn . The online submission will be available until 12.01pm Wednesday 3 Feb. Late submission will receive ε credit.
