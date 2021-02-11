@@ -3,7 +3,7 @@
 
   But because there are many topics to cover next, we have to stick with the schedule and try to give you useful, practical knowledge to help you build a better ML model. So I encourage you to spend your spare time learning and reading Ensemble Learning, which is how Machine Learning engineers build models in practice with simple ideas that win many Kaggle's competitors, including the Netflix Prize. 
 
-  Ensemble Learning is another paradigm of learning based on the fact that many predictors are better than a single predictor, similar to the idea of "wisdom of crowds" permeating social phenomena. The video lecture from the University of Waterloo on Ensemble Learning is really nice, and since it's mostly based on intuitive ideas to combine multiple models (not much theoretical ideas behind it), that video alone should help you understand Mehta's section 8 on combining model, which can give you a really good idea how to improve your model's predictive power in practice. https://www.youtube.com/watch?v=gTUigPt8fVo
+  Ensemble Learning is another paradigm of learning based on the fact that many predictors are better than a single predictor, similar to the idea of "wisdom of crowds" permeating social phenomena. The video lecture from the University of Waterloo on Ensemble Learning is really nice, and since it's mostly based on intuitive ideas to combine multiple models (not much theoretical ideas behind it), that video alone should help you understand Mehta's section 8 on combining model, which can give you a really good idea how to improve your model's predictive power in practice (https://www.youtube.com/watch?v=gTUigPt8fVo)
 .
 See you next week when we'll cover how to analyze a few Machine Learning problems, using methods of statistical physics.
 
