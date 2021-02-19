@@ -46,3 +46,4 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Stoudenmire, E., Schwab, D. J. **Supervised Learning with Tensor Networks** ([NeurIPS 2016](https://papers.nips.cc/paper/2016/hash/5314b9674c86e3f9d1ba25ef9bb32895-Abstract.html))
 
+* Banchi, L. et. al. **Generalization in Quantum Machine Learning: a Quantum Information Perspective** ([ArXiv 2021](https://arxiv.org/pdf/2102.08991.pdf))
