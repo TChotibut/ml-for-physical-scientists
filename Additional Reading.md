@@ -36,6 +36,8 @@ This is a compilation of recent work that might be a source of inspiration for y
 
 * Petar Veličković **Theoretical Foundation of Graph Neural Networks**([YouTube](https://www.youtube.com/watch?v=uF53xsT7mjc&fbclid=IwAR38jrgmtANdzvNPZCLFUGrGymNcC64kZ74QYe3PpuK7dfbq06PXStGI9lI))
 
+* Ard Louis, **Kolmogorov complexity and explaining why neural networks generalise so well** ([YouTube](https://www.youtube.com/watch?v=sLrkY4fYUpc))
+
 ## Quantum Machine Learning
 
 * Bharti, K., et. al. **Noisy Intermediate-scale quantum (NISQ) algorithms**, [(ArXiv 2021)](https://arxiv.org/pdf/2101.08448.pdf)
