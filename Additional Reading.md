@@ -29,7 +29,9 @@ This is a compilation of recent work that might be a source of inspiration for y
 * Yaida, Sho. **Non-Gaussian processes and neural networks at finite widths** ([Proceedings of Machine Learning Research 2020](https://cloud.math.princeton.edu/index.php/s/PF8g28ctpEcp3Ne))
 
 * Harutyunyan, H. et. al. **Improving Generalization by Controlling Label-Noise Information in Neural Network Weights** ([ICML 2020](https://arxiv.org/pdf/2002.07933.pdf))
-* 
+
+
+* Bahri, Y. et. al. **Statistical Mechanics of Deep Learning**, ([Annual Review of Condensed Matter Physics 2020](https://www.annualreviews.org/doi/pdf/10.1146/annurev-conmatphys-031119-050745))
 ### Talks
 
 * Yasaman Bahri, **Deep Learning: Theoretical Building Blocks From The Study of Wide Networks** ([YouTube](https://www.youtube.com/watch?v=xIo5er6jR9U&feature=youtu.be))
