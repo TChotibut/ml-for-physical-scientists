@@ -1,6 +1,6 @@
 # Announcement
 
-* [03-29-2021] Homework 4 is uploaded. It's due on April 7 by 10 am here https://www.dropbox.com/request/kYBBOEogbWiKLgDXF2vt.
+* [03-29-2021] Homework 4 is uploaded. You'll get to build your first deep networks from scratch! It's due on April 7 by 10 am here https://www.dropbox.com/request/kYBBOEogbWiKLgDXF2vt.
 See the submission instruction in our facebook group.
 
 * [03-16-2021] Homework 3 is uploaded. You'll get to build your first neural nets from scratch! The submission is due by March 25 at noon. You can upload your solutions in the following dropbox link https://www.dropbox.com/request/dSL6mPAm0NQ8KPELMDo9. 
