@@ -3,7 +3,7 @@
 * [03-29-2021] Homework 4 is uploaded. It's due on April 7 by 10 am here https://www.dropbox.com/request/kYBBOEogbWiKLgDXF2vt.
 See the submission instruction in our facebook group.
 
-* [03-16-2021] Homework 3 is uploaded. The submission is due by March 25 at noon. You can upload your solutions in the following dropbox link https://www.dropbox.com/request/dSL6mPAm0NQ8KPELMDo9. 
+* [03-16-2021] Homework 3 is uploaded. You'll get to build your first neural nets from scratch! The submission is due by March 25 at noon. You can upload your solutions in the following dropbox link https://www.dropbox.com/request/dSL6mPAm0NQ8KPELMDo9. 
 
 * [03-08-2021] From the outlook and feedback from the course, there'll be no mid-term nor final exam. However, homework will constitute 60% of your grade whereas the final project will constitute 40%. Please spend time thinking and crafting your final research project. We'll be meeting physically to work on your final project proposal together on Wednesday, March 17, from 4.30pm - 6.30pm at Chula Intelligent and Complex Systems new office in https://www.tusparkwha.com/en. Please prepare 5-10 minutes presentation of your final project proposal, then we'll give you feedback. Feel free to refer to additional readings page for your final project ideas. See you soon!
 
