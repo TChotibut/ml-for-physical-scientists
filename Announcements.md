@@ -1,4 +1,5 @@
 # Announcement
+* [03-30-2021] Homework 5 is also uploaded. Since the homework is slightly behind schedule, we encourage you to work on both Homework 4 and 5 together (after you finish 4 of course). It'll be due on April 10 by 10am here https://www.dropbox.com/request/ubBdgC5ovkduWTJMusJu.
 
 * [03-29-2021] Homework 4 is uploaded. You'll get to build your first deep networks from scratch! It's due on April 7 by 10 am here https://www.dropbox.com/request/kYBBOEogbWiKLgDXF2vt.
 See the submission instruction in our facebook group.
