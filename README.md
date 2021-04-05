@@ -19,7 +19,7 @@ Special Topic in Solid State Physics: Machine Learning for Physical Scientists
 | Week 8 | Introduction to Deep Learning, Feedforward Neural Networks, Backpropagation, Stochastic Gradient Descent (Yann Lecun's NYU course [video1 - skip the first 15 minutes](https://www.youtube.com/watch?v=0bMe_vCZo30), [video2](https://www.youtube.com/watch?v=d9vdh3b787Y))|  Mehta's Sec. 9, 11 | HW 3 (out) |
 | Week 9 | Convolutional Neural Networks ([video](https://www.youtube.com/watch?v=FW5gFiJb-ig)), Optimization in Deep Learning ([video](https://www.youtube.com/watch?v=--NZb480zlg))| Mehta's Sec. 5, 10, 11| HW 3 (due) |
 | Week 10 | Intro to Information Bottleneck by Dr. Wave Ngampruetikorn ([video](https://drive.google.com/file/d/1erIULql6i9Kxy0uIGUIJwA9ub_ANyblZ/view?usp=sharing),[slides](https://github.com/TChotibut/ml-for-physical-scientists/blob/main/Lecture%20Notes/Lecture_11_IB_intro.pdf))| Deterministic Information Bottleneck ([link](https://arxiv.org/pdf/1604.00268.pdf?fbclid=IwAR0fNL9PWguDwvsJomEGAGOB8auPan4VwZXLg_NKc2urcrQPRw6DaryEWrs)) | HW 4 (out) |
-| Week 11 | Modern architecture of Neural Networks: Residual Network, Graph Neural Networks, Transformers  |  | HW 4 (due) HW 5 (out) |
+| Week 11 | Deep Learning for Medical Imagings by Dr. Tiam Jaroensri (Google Health) ([video](https://drive.google.com/file/d/1sMLAJPSxhq7sqVcW_Yp_8h3iUPRfSB3I/view?usp=sharing)) Modern architecture of Neural Networks: Residual Network, Graph Neural Networks, Transformers  |  | HW 4 (due) HW 5 (out) |
 | Week 12 | Double Descent Phenomena in Deep Learning, Deep Learning as a Gaussian Process, Neural Tangent Kernel|  | HW 5 (due) HW 6 (out) |
 | Week 13 | Autoencoders and Generative Adversarial Networks|  | HW 6 (due) |
 
