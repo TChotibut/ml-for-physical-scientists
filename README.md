@@ -20,7 +20,7 @@ Special Topic in Solid State Physics: Machine Learning for Physical Scientists
 | Week 9 | Convolutional Neural Networks ([video](https://www.youtube.com/watch?v=FW5gFiJb-ig)), Optimization in Deep Learning ([video](https://www.youtube.com/watch?v=--NZb480zlg))| Mehta's Sec. 5, 10, 11| HW 3 (due) |
 | Week 10 | Intro to Information Bottleneck by Dr. Wave Ngampruetikorn ([video](https://drive.google.com/file/d/1erIULql6i9Kxy0uIGUIJwA9ub_ANyblZ/view?usp=sharing),[slides](https://github.com/TChotibut/ml-for-physical-scientists/blob/main/Lecture%20Notes/Lecture_11_IB_intro.pdf))| Deterministic Information Bottleneck ([link](https://arxiv.org/pdf/1604.00268.pdf?fbclid=IwAR0fNL9PWguDwvsJomEGAGOB8auPan4VwZXLg_NKc2urcrQPRw6DaryEWrs)) | HW 4 (out) |
 | Week 11 | Deep Learning for Medical Imagings by Dr. Tiam Jaroensri (Google Health) ([video](https://drive.google.com/file/d/1sMLAJPSxhq7sqVcW_Yp_8h3iUPRfSB3I/view?usp=sharing))   |  | HW 4 (due) HW 5 (out) |
-| Week 12 | Double Descent Phenomena in Deep Learning, Project Discussion, Looking Forward ([video](https://drive.google.com/file/d/1jNEA71MtoWpH_GCv2pvIFcKfm4hdzl2j/view?usp=sharing)), Graph Neural Networks - guest Lecture by Dr. Teerachote|  | HW 5 (due) HW 6 (out) |
+| Week 12 | Double Descent Phenomena in Deep Learning, Project Discussion, Looking Forward ([video](https://drive.google.com/file/d/1jNEA71MtoWpH_GCv2pvIFcKfm4hdzl2j/view?usp=sharing)), Graph Neural Networks - guest Lecture by Dr. Teerachote([link to GitHub](https://github.com/trachote/learning-on-graphs))|  | HW 5 (due) HW 6 (out) |
 | Week 13 | Introduction to Quantum Machine Learning - guest lecture by P' Supanut (CQT, Singapore)|  | HW 6 (due) |
 
 ## Course Description: 
