@@ -10,7 +10,7 @@
 
 5. **Pawat Akarapipattana**, [*Learning Geometric Graphs with Restricted Boltzmann Machine*](https://drive.google.com/file/d/16xFOWnLo79p0ZTzzwaJLxEzNTOCCc1HL/view?usp=sharing)
 
-6. **Poramet Pathumsoot, Eakasit**, and **Yaninee Jungjarassub**, [*Approximate Quantum Encoder in Quantum Machine Learning Classification*](https://drive.google.com/file/d/1KXAjTK95f7k72vUAEbdDhkav523N7Zju/view?usp=sharing)
+6. **Poramet Pathumsoot, Eakasit Tangmunchittham**, and **Yaninee Jungjarassub**, [*Approximate Quantum Encoder in Quantum Machine Learning Classification*](https://drive.google.com/file/d/1KXAjTK95f7k72vUAEbdDhkav523N7Zju/view?usp=sharing)
 
 7. **Saksilpa Srisukson**, [*ML in Particle Physics:
 An Introduction to Event Classification*](https://drive.google.com/file/d/1agAItOyNLttDQ2_quZfIK2jr230RBvi3/view?usp=sharing)
