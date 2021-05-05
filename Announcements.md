@@ -1,6 +1,6 @@
 # Final Projects 
 
-1. **Apimuk Sornsaeng** and **Tanawat Ngampattrapan**, [*Convolution Neural Network for Transmission Line Model of Human Cochlear*](https://drive.google.com/file/d/12Wl57WDbpD_IDCC-xlPmvseYfNHB-e5i/view?usp=sharing)
+1. **Apimuk Sornsaeng** and **Tanawat Ngampattrapan**, [*Convolutional Neural Networks for Transmission Line Model of Human Cochlear*](https://drive.google.com/file/d/12Wl57WDbpD_IDCC-xlPmvseYfNHB-e5i/view?usp=sharing)
 
 2. **Chanasorn Kongprachaya**, [*CMB Anisotropy maps Simulations using Deep Learning*](https://drive.google.com/file/d/17SK0R8M6p0IQAqfqSXN8mZbrNvStDw1-/view?usp=sharing)
 
