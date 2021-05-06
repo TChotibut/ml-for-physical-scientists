@@ -17,4 +17,4 @@ An Introduction to Event Classification*](https://drive.google.com/file/d/1agAIt
 
 8. **Wirawat Kokaew** [*Optimal Controls for Open Quantum Systems Based on Reinforcement Learning*](https://drive.google.com/file/d/1oBsethFvHw0knBWAvQREDijYPT5FDh5X/view?usp=sharing)
 
-For more information, see [this link](https://drive.google.com/file/d/12Wl57WDbpD_IDCC-xlPmvseYfNHB-e5i/view?usp=sharing) to Google Drive containing videos, presentation slides, and supplementary materials.
+For more information, follow [this link](https://drive.google.com/file/d/12Wl57WDbpD_IDCC-xlPmvseYfNHB-e5i/view?usp=sharing) to Google Drive containing videos, presentation slides, and supplementary materials.
